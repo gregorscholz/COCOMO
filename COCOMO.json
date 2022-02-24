@@ -1,0 +1,154 @@
+{
+    "loc": {
+        "assambler": 213,
+        "c": 91,
+        "fortran 95": 71,
+        "pascal": 91,
+        "tcl": 62,
+        "c++": 53,
+        "java": 53,
+        "haskell": 38,
+        "visual basics 5": 29,
+        "smalltalk": 21,
+        "sql": 13
+    },
+    "komplexitaet": {
+        "organic": {
+            "alpha": 2.4,
+            "beta": 1.05,
+            "gamma": 0.38
+        },
+        "semi-detatched": {
+            "alpha": 3.0,
+            "beta": 1.12,
+            "gamma": 0.35
+        },
+        "embedded": {
+            "alpha": 3.6,
+            "beta": 1.2,
+            "gamma": 0.32
+        }
+    },
+    "mod": {
+        "rely": {
+            "sehr niedrig": 0.75,
+            "niedrig": 0.88,
+            "normal": 1,
+            "hoch": 1.15,
+            "sehr hoch": 1.40,
+            "extrem hoch": null
+        },
+        "data": {
+            "sehr niedrig": null,
+            "niedrig": 0.94,
+            "normal": 1,
+            "hoch": 1.08,
+            "sehr hoch": 1.16,
+            "extrem hoch": null
+        },
+        "cplx": {
+            "sehr niedrig": 0.70,
+            "niedrig": 0.85,
+            "normal": 1,
+            "hoch": 1.15,
+            "sehr hoch": 1.30,
+            "extrem hoch": 1.65
+        },
+        "time": {
+            "sehr niedrig": null,
+            "niedrig": null,
+            "normal": 1,
+            "hoch": 1.11,
+            "sehr hoch": 1.30,
+            "extrem hoch": 1.66
+        },
+        "stor": {
+            "sehr niedrig": null,
+            "niedrig": null,
+            "normal": 1,
+            "hoch": 1.06,
+            "sehr hoch": 1.21,
+            "extrem hoch": 1.56
+        },
+        "virt": {
+            "sehr niedrig": null,
+            "niedrig": 0.87,
+            "normal": 1,
+            "hoch": 1.15,
+            "sehr hoch": 1.30,
+            "extrem hoch": null
+        },
+        "turn": {
+            "sehr niedrig": null,
+            "niedrig": 0.87,
+            "normal": 1,
+            "hoch": 1.07,
+            "sehr hoch": 1.15,
+            "extrem hoch": null
+        },
+        "acap": {
+            "sehr niedrig": 1.46,
+            "niedrig": 1.19,
+            "normal": 1,
+            "hoch": 0.86,
+            "sehr hoch": 0.71,
+            "extrem hoch": null
+        },
+        "aexp": {
+            "sehr niedrig": 1.29,
+            "niedrig": 1.13,
+            "normal": 1,
+            "hoch": 0.91,
+            "sehr hoch": 0.82,
+            "extrem hoch": null
+        },
+        "pcap": {
+            "sehr niedrig": 1.42,
+            "niedrig": 1.17,
+            "normal": 1,
+            "hoch": 0.86,
+            "sehr hoch": 0.70,
+            "extrem hoch": null
+        },
+        "vexp": {
+            "sehr niedrig": 1.21,
+            "niedrig": 1.10,
+            "normal": 1,
+            "hoch": 0.9,
+            "sehr hoch": null,
+            "extrem hoch": null
+        },
+        "ltex": {
+            "sehr niedrig": 1.14,
+            "niedrig": 1.07,
+            "normal": 1,
+            "hoch": 0.95,
+            "sehr hoch": null,
+            "extrem hoch": null
+        },
+        "modp": {
+            "sehr niedrig": 1.24,
+            "niedrig": 1.10,
+            "normal": 1,
+            "hoch": 0.91,
+            "sehr hoch": 0.82,
+            "extrem hoch": null
+        },
+        "tool": {
+            "sehr niedrig": 1.24,
+            "niedrig": 1.10,
+            "normal": 1,
+            "hoch": 0.91,
+            "sehr hoch": 0.83,
+            "extrem hoch": null
+        },
+        "sced": {
+            "sehr niedrig": 1.23,
+            "niedrig": 1.08,
+            "normal": 1,
+            "hoch": 1.04,
+            "sehr hoch": 1.10,
+            "extrem hoch": null
+        }
+    }
+}
